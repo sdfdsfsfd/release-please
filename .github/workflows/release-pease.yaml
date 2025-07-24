@@ -18,11 +18,11 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
       - name: releasepleasestep
-        uses: googleapis/release-please-action@v3.1.2
+        uses: googleapis/release-please-action@v4
         with: 
           
-          config-file: ./release-please-config.json
-          manifest-file: ./.release-please-manifest.json
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
 
 
           token: ${{ secrets.HUB_TOKEN }} 
