@@ -21,8 +21,9 @@ jobs:
         uses: googleapis/release-please-action@v3.1.2
         with: 
 
+
           token: ${{ secrets.HUB_TOKEN }} 
-          
+
 
           # this assumes that you have created a personal access token
           # (PAT) and configured it as a GitHub action secret named
