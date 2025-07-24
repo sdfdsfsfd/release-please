@@ -8,11 +8,13 @@
             "changelog-path": "apps/myapp1/CHANGELOG.md"
             "component": "myapp1",
             "release-type": "simple"
+            "path": "apps/myapp1"
     },
       "infra/dev": {
             "changelog-path": "infra/dev/CHANGELOG.md"
             "component": "dev",
             "release-type": "simple"
+            "path": "infra/dev"
     }
     }
 }
