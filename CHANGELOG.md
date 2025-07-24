@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/sdfdsfsfd/release-please/compare/v1.0.0...v1.1.0) (2025-07-24)
+
+
+### Features
+
+* A1 ([#9](https://github.com/sdfdsfsfd/release-please/issues/9)) ([c9ece7f](https://github.com/sdfdsfsfd/release-please/commit/c9ece7f0dc684574489d117b9691e6334ff4d492))
+* A2 ([#7](https://github.com/sdfdsfsfd/release-please/issues/7)) ([67fb55a](https://github.com/sdfdsfsfd/release-please/commit/67fb55a8968c55e8f53c95702b27589c5119320b))
+
 ## 1.0.0 (2025-07-24)
 
 
