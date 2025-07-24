@@ -20,7 +20,9 @@ jobs:
       - name: releasepleasestep
         uses: googleapis/release-please-action@v3.1.2
         with: 
+
           token: "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"
+
           # this assumes that you have created a personal access token
           # (PAT) and configured it as a GitHub action secret named
           # `MY_RELEASE_PLEASE_TOKEN` (this secret name is not important).
